@@ -31,8 +31,8 @@ You can find the docs for API v1 at [https://developer.123contactform.com/api-v1
 ### Authentication
 
 123ContactForm API v1 requires a valid API key, which can be generated from the API Keys section of My Account page (after you login your 123ContactForm account).
-* API keys generated on our [https://www.123contactform.com/](US-hosted platform) are 35 characters long.
-* API keys generated on our [https://eu.123contactform.com/](EU-hosted platform) are 35 characters long and always start with the sequence: EU-
+* API keys generated on our [US-hosted platform](https://www.123contactform.com/) are 35 characters long.
+* API keys generated on our [EU-hosted platform](https://eu.123contactform.com/) are 35 characters long and always start with the sequence: EU-
 
 ### Usage
 
