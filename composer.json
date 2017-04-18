@@ -1,0 +1,24 @@
+{
+    "name": "cf123/api",
+    "description": "123ContactForm Api V1",
+    "homepage": "https://123contactform.com",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "123ContactForm",
+            "email": "contact@123contactform.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ContactForm\\Api\\V1\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.3"
+    },
+    "scripts": {
+        "start": "php -S 0.0.0.0:8181 -t samples"
+    }
+}
