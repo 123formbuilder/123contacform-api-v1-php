@@ -19,6 +19,7 @@
         "php": ">=5.3"
     },
     "scripts": {
-        "start": "php -S 0.0.0.0:8181 -t samples"
+        "start": "composer run --timeout=0 serve",
+        "serve": "php -S 0.0.0.0:8181 -t samples"
     }
 }
